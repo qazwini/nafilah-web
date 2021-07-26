@@ -1,18 +1,18 @@
 .imageWrapper {					// Sets the background image in the header area
 	height: 714px;
-	background: 
-		linear-gradient(
-		rgba($image-overlay-color, $image-overlay-transparency), 
-		rgba($image-overlay-color, $image-overlay-transparency)
-		   ),
-		
-		url($header-image);
+//	background: 
+//		linear-gradient(
+//		rgba($image-overlay-color, $image-overlay-transparency), 
+//		rgba($image-overlay-color, $image-overlay-transparency)
+//		   ),
+//		url($header-image);
+//	background-repeat: no-repeat;
+//	background-size: cover;
+//	background-position: top;
+    
+    background: linear-gradient(45deg, cadetblue, rebeccapurple);
 
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: top;
 	border-radius: 0px 0px 40px 40px;
-
 }
 
 .headerBackground {
@@ -611,16 +611,6 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
-}
-
-.footerText {
-	color: $footer-text-color;
-	display: block;
-	line-height: 1.5;
-	width: 100%;
-	text-align: center;
-	padding-top: 70px;
-	padding-bottom: 70px;
 }
 
 .footerIcons {
