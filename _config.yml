@@ -10,9 +10,9 @@ discord_link                              : https://discord.gg/snsKVNXhhs
 presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/icon.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Nafilah                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+#app_icon                                  : assets/icon.png                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+#app_name                                  : Nafilah                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+#app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Shia app for daily duas, a'mal, and ziyarat.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -25,8 +25,8 @@ your_link                                 : https://mqazwini.com/
 your_city                                 : Canton, MI                                
 email_address                             : mmqazwini@yahoo.com
 facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : mmqazwini
+instagram_username                        : mmqazwini 
+twitter_username                          :
 github_username                           : qazwini
 youtube_username                          :
 
