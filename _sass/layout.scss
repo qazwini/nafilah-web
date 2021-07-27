@@ -479,7 +479,7 @@ nav > ul li a:active {
 	justify-content: flex-start;
 	flex-grow: 1;
 	flex-wrap: wrap;
-	margin-top: 93px;
+	margin: 93px 0;
 }
 
 .feature {
@@ -611,10 +611,12 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+    background-color: {{ $footer-bg-color }};
+    border-radius: 20px 20px 0 0;
 }
 
 .footerIcons {
-	padding-bottom: 70px;
+	padding: 70px 0;
 	display: flex;
 	flex: 0 0 100%;
 	justify-content: center;
