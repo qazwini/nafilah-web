@@ -35,7 +35,7 @@ features                                  :
 
   - title                                 : English Interface
     description                           : Designed for English speakers with a fully English interace.
-    fontawesome_icon_name                 : earth-americas
+    fontawesome_icon_name                 : globe-americas
     
   - title                                 : English Translations & Transliterations
     description                           : English translations & transliterations for duas and a'mal. Additional translations are being added regularly.
@@ -43,7 +43,7 @@ features                                  :
 
   - title                                 : Arabic & Persion
     description                           : Full support for Arabic and Persian as well.
-    fontawesome_icon_name                 : earth-asia
+    fontawesome_icon_name                 : globe-asia
 
   - title                                 : Audio
     description                           : Download (permanently or temporarily) and listen to audio files for duas (ziyarat and a'mal coming soon).
@@ -59,7 +59,7 @@ features                                  :
 
   - title                                 : Search
     description                           : Seamlessly search through the text database by entering the text's title or a word/phrase inside it. English and Arabic! 
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : search
 
   - title                                 : Customization
     description                           : Custom app icon, custom theme color, custom font and size...
@@ -67,7 +67,7 @@ features                                  :
 
   - title                                 : Dark Mode
     description                           : For the cultured.
-    fontawesome_icon_name                 : circle-half-stroke
+    fontawesome_icon_name                 : adjust
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
