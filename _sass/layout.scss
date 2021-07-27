@@ -262,6 +262,7 @@ nav > ul li a:active {
 .appIconShadow {
 	display: flex;
 	filter: $drop-shadow;
+    overflow: visible;
 }
 
 .appIconLarge {
