@@ -45,4 +45,4 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 <br>
 
 ## Contact
-If you have any questions or suggestions about my Privacy Policy or Terms and Conditions, contact me at mmqazwini@yahoo.com.
+If you have any questions or suggestions about my Privacy Policy or Terms and Conditions, contact me at <a href="mailto:mmqazwini@yahoo.com">mmqazwini@yahoo.com<a>.
