@@ -8,6 +8,8 @@ page_url                                  : https://nafilah.app
 appstore_link                             : https://apps.apple.com/app/id1510691403   # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 discord_link                              : https://discord.gg/snsKVNXhhs
 
+app_logo                                  : assets/logo.png
+app_logo_white                            : assets/logo-white.png
 app_icon                                  : assets/appicon.png                        # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Nafilah                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
