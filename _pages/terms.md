@@ -9,7 +9,6 @@ July 27, 2021
 
 ## Privacy Policy
 
-### Information We Collect
 No data is collected in any way. Your location and reading history remain on your phone and are not shared with anyone.
 
 ### Links to Other Sites
